@@ -1,4 +1,4 @@
-# Hostloc Auto Get Points
+# Hostloc Auto Get Points Beacher
 使用 GitHub Actions 自动获取 Hostloc 论坛积分
 的
 ## 更新说明。。。
